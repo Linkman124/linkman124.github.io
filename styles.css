@@ -1,7 +1,13 @@
 body {
-	background-color:#404040;
-     }
+	background-color: #404040;
+}
 
 h1 {
-	color:#fafafa;
-   }
+	font-family: arial;
+	color: #fafafa;
+}
+
+p {
+	font-family: georgia;
+	color: #fafafa;
+}
